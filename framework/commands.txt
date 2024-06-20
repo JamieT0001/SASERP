@@ -1,1 +1,36 @@
+sv / commands.lua
+ooc = Speaking in out of character chat
+do = Describes an action performed by the player
+me = Shows an action by the player
+mer =
+dob = Shows date of birth of player
+twitter = Sends a message through twitter
+gme = Sends messages to all players
+radiochat = Sends a Radio message to all players with Law Enforcement permissions
+ems = Sends a message to all EMS personnel
+darkweb = Sends a message through the Darkweb
+whoami = Displays the player's character information.
+911 = Makes a 911 emergency call
+panic = Activates the panic button for law enforcement
+adminchat = Sends a message to all admins
+calladmin = Requests admin assistance
+telp = Teleports to another player
+aop = Sets the Area of Play
+checkaop = Checks the current Area of Play
+pt = Toggles the peacetime on or off
+
+
+cl / commands.lua
+fw = Brings player back to Character selection
+framework = Brings player back to Character selection
+loadout = Removes all of players current weapons and gives them new weapons
+reload = refill taser carts
+rc = refills raser carts
+clear = removes all weapons in the player inventory
+
+=====
+
+Framework addons / show_id
+cl.lua
+showid = Shows players around you your ID
 
